@@ -16,14 +16,14 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?sreehariprathap&style=flat-square&color=blue" alt=""/>
+
 <h1 align="center">
   Hello World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
 </h1>
 
-<div align="center">
-  <img src="https://media-exp2.licdn.com/dms/image/C5616AQFxfW-G82YpKg/profile-displaybackgroundimage-shrink_350_1400/0/1618669766723?e=1661385600&v=beta&t=3YnZvhLU2oqTD_huFrSH6movjCmzo4n0ia32XFMb8Yg" width="900" height="240"/>
-</div>
+
 
 ### :man_technologist: About Me :
 
